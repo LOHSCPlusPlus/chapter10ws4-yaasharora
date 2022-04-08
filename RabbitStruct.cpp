@@ -11,7 +11,6 @@ struct Rabbit{
     bool isRare;
     bool isValid;
     Rabbit();
-    
 };
 // Default constructor, clear all the information.
 Rabbit::Rabbit() {
